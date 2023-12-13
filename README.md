@@ -4,6 +4,8 @@ Bienvenido a mi primer sites creado con stackedit y ionos.
 
 # Hipervínculos
 www.medusitaa.com
+https://view.genial.ly/6579a2287082820014fe5f65/presentation-basic-dark-presentation
+https://trello.com/b/KZewzjiQ/presentacion
 # Caja Sombreada Para Comandos
 Comandos
 ```
