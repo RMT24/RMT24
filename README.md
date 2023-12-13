@@ -34,3 +34,4 @@ $ rm
 
 
 # Imagen
+![image](https://github.com/RMT24/RMT24/assets/148152801/90fe5e1d-9099-4ece-a8bc-c8c3e6230db3)
